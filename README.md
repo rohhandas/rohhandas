@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Rohan Das<br>💻 CS Engineering grad | Front-end & UI/UX Developer<br>⚙️ Building cool web apps with React, Vue & Node.js<br>🤖 Exploring AI & Machine Learning projects<br>🚀 Always learning & open to collabs<br>🌐 Portfolio: https://rohandas.xyz/
+👋 Hi, I’m Rohan Das<br>💻 CS Engineering grad | Front-end & UI/UX Developer<br>⚙️ Building cool web apps with React, Vue & Node.js<br>🤖 Exploring AI & Machine Learning projects<br>🚀 Always learning & open to collabs
 
 
 ## 🌐 Socials:
